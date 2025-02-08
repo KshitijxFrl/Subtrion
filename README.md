@@ -4,5 +4,5 @@ Subtrion is an all in one subscription platform. Create/Subscribe subscriptions 
 
 Subtrion and Go Beyond!!
 
-[!WARNING]
+[ !WARNING ]
 This is not the final build of the app
